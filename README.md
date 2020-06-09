@@ -2,7 +2,7 @@
 ## Consideraciones
 * En el archivo .aws/credentials debe tener los siguente campos
 ```
-region=us-east-1
+region
 aws_access_key_id
 aws_secret_access_key
 aws_session_token
